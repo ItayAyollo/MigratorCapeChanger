@@ -10,11 +10,11 @@ this open source program allows you to change your minecraft cape to any image (
 # Installation
 using the executable (No python installation required):
 <br />
-add link here
+Download the repository and open the executable folder
 <br />
 Using the script (python and refrences required):
 <br />
-add link here
+Download the repository and open the python folder
 <br />
 # Usage
 Get your cape (heres a template):
