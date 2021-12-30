@@ -23,6 +23,12 @@ Get your cape (heres a template):
 <br />
 In location.txt, replace the existing line with your minecraft installation folder directory (should look like this: C:\Users\yourusername\AppData\Roaming\.minecraft)
 after that, run the program / script. a file dialog should open in which you need to choose your cape file. after choosing it the program should say that it replaced the cape and that you need to restart your game. and thats it!
+# Code not working / wanna do it yourself?
+rename your cape image to 17f76a23ff4d227a94ea3d5802dccae9f2ae9aa9 and remove the .png extension of the image so that its no longer an image.
+<br />
+go to yourminecraftinstallationdirectory\assets\skins\17 and move the file you just renamed there. it should ask if you want to replace the existing item, click yes.
+<br />
+and thats it! that basically what my program does for you.
 # Todo
 make the executable weight less
 <br />
