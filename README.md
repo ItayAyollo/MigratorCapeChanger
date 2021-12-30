@@ -1,4 +1,4 @@
-# MigratorCapeChanger
+# Migrator Cape Changer
 Migrated your Minecraft account and got a cape? wanna change its appearance? you've come to the right place!
 <br />
 this open source program allows you to change your minecraft cape to any image (even HD ones!)
